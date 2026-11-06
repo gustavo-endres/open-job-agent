@@ -10,7 +10,3 @@ Este projeto é uma base **pública e reutilizável** para aprender automação 
 4. Para integrações opcionais, consulte [configuração privada](docs/CONFIGURACAO_PRIVADA.md) e [segurança](docs/SEGURANCA_E_PUBLICACAO.md).
 
 **Atenção:** o código não envia candidaturas, não usa Gmail e não valida automaticamente o preenchimento de todos os requisitos de uma vaga. A pontuação exige revisão humana.
-
-## Se você está atualizando o repositório original
-
-Substitua apenas os arquivos indicados pelo pacote de documentação, confirme as alterações em **GitHub Desktop → Changes** e só publique depois de revisar os conteúdos. A pasta `config/private/`, segredos e dados pessoais nunca devem ser incluídos.

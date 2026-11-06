@@ -63,9 +63,9 @@ No Linux/macOS, substitua `py` por `python3` nos comandos, conforme sua instala�
 
 ## 🧱 Faça deste projeto o seu ponto de partida
 
-**Quer ter a sua própria versão?** Depois que este repositório estiver marcado como **Template repository**, clique em **Use this template → Create a new repository**. Escolha um nome e crie um repositório independente, com seus próprios arquivos e histórico inicial.
+**Quer ter a sua própria versão?** Clique em **Use this template → Create a new repository**, escolha um nome e crie um repositório independente, com seus próprios arquivos e histórico inicial.
 
-Se o botão ainda não aparecer, é possível usar **Fork** para criar sua cópia. Para entender a diferença e como continuar, siga [**Como criar e personalizar o seu Job Agent**](docs/COMECE_AQUI.md).
+Também é possível usar **Fork** para criar sua cópia. Para entender a diferença e como continuar, siga [**Como criar e personalizar o seu Job Agent**](docs/COMECE_AQUI.md).
 
 **Primeiras personalizações recomendadas:**
 
